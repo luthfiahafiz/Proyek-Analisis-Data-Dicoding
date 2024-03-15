@@ -1,0 +1,2 @@
+Link deploy: https://ps2vxxgj5d25usiah6v4dx.streamlit.app/
+Link github: https://github.com/luthfiahafiz/Proyek-Analisis-Data-Dicoding
