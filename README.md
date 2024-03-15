@@ -1,5 +1,4 @@
 # Proyek-Analisis-Data-Dicoding
-# Bangkit-Luthfia
 
 ## Dashboard
 Link deploy: https://bangkit-luthfia-ncfgduit4tjspcz4m52m27.streamlit.app/
